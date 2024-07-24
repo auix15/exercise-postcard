@@ -2,10 +2,10 @@ body {
 	background: black;
 }
 
-* {
+/* * {
 	border: 1px dashed red;
 	min-height: 10px;
-}
+} */
 .postcard {
 	width: 400px;
 	height: 300px;
@@ -15,7 +15,6 @@ body {
 
 .postcard-header {
 	display: flex;
-	
 }
 
 .postcard-header h1 {
@@ -59,4 +58,3 @@ button {
 	font-weight: 400;
 	font-style: normal;
 }
-
